@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/insurance-quote/static/css/main.f962f389.chunk.css",
+    "main.js": "/insurance-quote/static/js/main.dfa2d732.chunk.js",
+    "main.js.map": "/insurance-quote/static/js/main.dfa2d732.chunk.js.map",
+    "runtime-main.js": "/insurance-quote/static/js/runtime-main.1b0c8df1.js",
+    "runtime-main.js.map": "/insurance-quote/static/js/runtime-main.1b0c8df1.js.map",
+    "static/js/2.b77dfa3d.chunk.js": "/insurance-quote/static/js/2.b77dfa3d.chunk.js",
+    "static/js/2.b77dfa3d.chunk.js.map": "/insurance-quote/static/js/2.b77dfa3d.chunk.js.map",
+    "static/js/3.6f0f67a9.chunk.js": "/insurance-quote/static/js/3.6f0f67a9.chunk.js",
+    "static/js/3.6f0f67a9.chunk.js.map": "/insurance-quote/static/js/3.6f0f67a9.chunk.js.map",
+    "index.html": "/insurance-quote/index.html",
+    "static/css/main.f962f389.chunk.css.map": "/insurance-quote/static/css/main.f962f389.chunk.css.map",
+    "static/js/2.b77dfa3d.chunk.js.LICENSE.txt": "/insurance-quote/static/js/2.b77dfa3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b0c8df1.js",
+    "static/js/2.b77dfa3d.chunk.js",
+    "static/css/main.f962f389.chunk.css",
+    "static/js/main.dfa2d732.chunk.js"
+  ]
+}
